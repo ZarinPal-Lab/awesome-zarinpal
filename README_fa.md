@@ -5,16 +5,13 @@
   <br>
 </p>
 
-<h1 dir="rtl">
-  Awesome ZarinPal 
+<h1 dir="rtl" align="center">
+  Awesome ZarinPal <br>
   <a href="https://github.com/ZarinPal-Lab/awesome-zarinpal">
     <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"/>
   </a>
 </h1>
 
-<h1 dir="rtl">
-منابع
-</h1>
 
 <h2 dir="rtl">
 منابع رسمی زرین پال

@@ -5,20 +5,38 @@
   <br>
 </p>
 
-## Awesome ZarinPal [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ZarinPal-Lab/awesome-zarinpal)
+<h1 dir="rtl">
+  Awesome ZarinPal 
+  <a href="https://github.com/ZarinPal-Lab/awesome-zarinpal">
+    <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"/>
+  </a>
+</h1>
 
-# منابع
+<h1 dir="rtl">
+منابع
+</h1>
+
+<h2 dir="rtl">
+منابع رسمی زرین پال
+</h2>
+
+<ul dir='rtl'>
+  <li><a href="https://github.com/ZarinPal-Lab/Prestashop">پلاگین رسمی پرستاشاپ</a></li>
+</ul>
 
 
-### منابع رسمی زرین پال
-
-- [پلاگین رسمی پرستاشاپ](https://github.com/ZarinPal-Lab/Prestashop)
-
-### منابع غیر رسمی زرین پال
+<h2 dir="rtl">
+منابع غیر رسمی زرین پال
+</h2>
+<p dir='rtl'>
 هنوز موردی وجود ندارد
+</p>
 
 <br/>
 <br/>
 <br/>
 
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+<a href="https://creativecommons.org/publicdomain/zero/1.0/">
+  <img src="https://i.creativecommons.org/p/zero/1.0/88x31.png" alt="Awesome"/>
+</a>

@@ -130,6 +130,7 @@
         <li><a href="https://github.com/ZarinPal-Lab/Flynax/archive/master.zip" target="_blank">Flynax - Anonymous</a></li>
         <li><a href="https://github.com/ZarinPal-Lab/IPS-Community-Suite/archive/master.zip" target="_blank">IPS Community Suite - ipsfarsi.ir</a></li>
         <li><a href="https://github.com/MJ-Vakili/NopCommerce-Zarinpal/releases/download/1/Payments.Zarinpal.rar" target="_blank">NopCommerce Zarinpal - nopfarsi.ir</a></li>
+        <li><a href="https://github.com/amirasaran/yii2-zarinpal" target="_blank">Online Zarinpal Payment Extension For Yii2 - Amirasaran</a></li>
 
 
 <br/>

@@ -12,6 +12,32 @@
 
 ### Official Resources
 
+<li><a href="https://downloads.wordpress.org/plugin/zarinpal-woocommerce-payment-gateway.zip" target="_blank">official  WooCommerce</a></li>
+<li><a href="https://downloads.wordpress.org/plugin/zarinpal-paid-downloads.zip" target="_blank">official  Paid Download</a></li>
+<li><a href="https://downloads.wordpress.org/plugin/zarinpal-payment-gateway-for-camptix.zip" target="_blank">official  CampTix</a></li>
+<li><a href="https://downloads.wordpress.org/plugin/zarinpal-paid-memberships-pro.zip" target="_blank">official  Paid Memberships Pro</a></li>
+<li><a href="https://downloads.wordpress.org/plugin/zarinpal-provip-payment.zip" target="_blank">official   zarinpal provip payment</a></li>
+<li><a href="https://github.com/ZarinPal-Lab/Joomla-EasyPay/archive/v2.5.zip" target="_blank">official  Joomla EasyPay 2.5 </a></li>
+<li><a href="https://github.com/ZarinPal-Lab/WHMCS/archive/whmcs7.zip" target="_blank">official   WHMCS 7</a></li>
+<li><a href="https://github.com/ZarinPal-Lab/WHMCS/archive/master.zip" target="_blank">official   WHMCS 6</a></li>
+<li><a href="https://github.com/SamanSystems/Sadepardaz-Sade/archive/master.zip" target="_blank">official   Sadepardaz-Sade</a></li>
+<li><a href="https://github.com/SamanSystems/Sadepardaz-Pin/archive/master.zip" target="_blank">official   Sadepardaz-Pin</a></li>
+<li><a href="https://github.com/SamanSystems/Sadepardaz-Mahsooldar/archive/master.zip" target="_blank">official   Sadepardaz-Mahsooldar</a></li>
+<li><a href="https://github.com/ZarinPal-Lab/Prestashop/releases/download/v2.7.5/ZarinGate-Prestashop.zip" target="_blank">official   Prestashop</a></li>
+<li><a href="https://github.com/ZarinPal-Lab/Prestashop/releases/download/v2.7.5/Prestashop.zip" target="_blank">official   Prestashop</a></li>
+<li><a href="https://github.com/ZarinPal-Lab/OSCommerce/archive/master.zip" target="_blank">official   OSCommerce</a></li>
+<li><a href="https://github.com/ZarinPal-Lab/PHP-IPTest/archive/master.zip" target="_blank">official   PHP-IPTest</a></li>
+<li><a href="https://github.com/ZarinPal-Lab/SampleCode-PHP-Soap/archive/master.zip" target="_blank">official   SampleCode-PHP-Soap</a></li>
+<li><a href="https://github.com/ZarinPal-Lab/SampleCode-PHP-NuSoap/archive/master.zip" target="_blank">official   SampleCode-PHP-NuSoap</a></li>
+<li><a href="https://github.com/ZarinPal-Lab/Composer-Library/archive/master.zip" target="_blank">official   Composer-Library</a></li>
+<li><a href="https://github.com/ZarinPal-Lab/Android-sample-code/archive/master.zip" target="_blank">official   Android-sample-code</a></li>
+<li><a href="https://github.com/ZarinPal-Lab/Zarinpal-RestAPI-Sample-php/archive/master.zip" target="_blank">official   Zarinpal-RestAPI-Sample-php</a></li>
+<li><a href="https://github.com/SamanSystems/WebGate-DataLifeEngine/archive/master.zip" target="_blank">official   WebGate-DataLifeEngine</a></li>
+<li><a href="https://github.com/ZarinPal-Lab/HostBill/archive/master.zip" target="_blank">official   HostBill</a></li>
+<li><a href="https://github.com/ZarinPal-Lab/OxWall/archive/master.zip" target="_blank">official     OxWall</a></li>
+<li><a href="https://github.com/ZarinPal-Lab/IranPTC/archive/master.zip" target="_blank">official   PTC iran Webgate</a></li>
+<li><a href="https://github.com/ZarinPal-Lab/IranPTC/archive/zaringate.zip" target="_blank">official   PTC iran Zaringate</a></li>
+
 - [Official Prestashop Plugin](https://github.com/ZarinPal-Lab/Prestashop)
 
 ### External Resources

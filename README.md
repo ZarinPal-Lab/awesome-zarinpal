@@ -30,7 +30,7 @@
 <li><a href="https://github.com/ZarinPal-Lab/SampleCode-PHP-Soap/archive/master.zip" target="_blank">official   SampleCode-PHP-Soap</a></li>
 <li><a href="https://github.com/ZarinPal-Lab/SampleCode-PHP-NuSoap/archive/master.zip" target="_blank">official   SampleCode-PHP-NuSoap</a></li>
 <li><a href="https://github.com/ZarinPal-Lab/Composer-Library/archive/master.zip" target="_blank">official   Composer-Library</a></li>
-<li><a href="https://github.com/ZarinPal-Lab/Android-sample-code/archive/master.zip" target="_blank">official   Android-sample-code</a></li>
+<li><a href="https://github.com/ZarinPal-Lab/Android-sample-code/archive/master.zip" target="_blank">official Android Purchase SDK</a></li>
 <li><a href="https://github.com/ZarinPal-Lab/Zarinpal-RestAPI-Sample-php/archive/master.zip" target="_blank">official   Zarinpal-RestAPI-Sample-php</a></li>
 <li><a href="https://github.com/SamanSystems/WebGate-DataLifeEngine/archive/master.zip" target="_blank">official   WebGate-DataLifeEngine</a></li>
 <li><a href="https://github.com/ZarinPal-Lab/HostBill/archive/master.zip" target="_blank">official   HostBill</a></li>

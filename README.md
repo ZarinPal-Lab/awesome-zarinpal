@@ -39,8 +39,9 @@
 <li><a href="https://github.com/ZarinPal-Lab/IranPTC/archive/zaringate.zip" target="_blank">official   PTC iran Zaringate</a></li>
 
 ### External Resources
-
- <li><a href="https://github.com/SamanSystems/WebGate-Easy-Digital-Download/archive/master.zip" target="_blank">Easy Digital Downloads - iEhsan</a></li>
+<li><a href="https://github.com/shetabit/payment/archive/master.zip" target="_blank">Laravel multi-gateway payment - Mahdi Khanzadi</a></li>
+        <li><a href="https://github.com/shetabit/multipay/archive/master.zip" target="_blank">PHP multi-gateway payment - Mahdi Khanzadi</a></li>
+        <li><a href="https://github.com/SamanSystems/WebGate-Easy-Digital-Download/archive/master.zip" target="_blank">Easy Digital Downloads - iEhsan</a></li>
         <li><a href="https://downloads.wordpress.org/plugin/erima-zarinpal-donate.zip" target="_blank">zarinpal donate - seyyed amir</a></li>
         <li><a href="https://github.com/SamanSystems/Wordpress-Postfinder-with-zarinpal/archive/master.zip" target="_blank">pointfinder - abbas rezaie </a></li>
         <li><a href="https://github.com/ZarinPal-Lab/GravityForms/archive/master.zip" target="_blank">Gravity forms - hannanstd.ir</a></li>
